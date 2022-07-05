@@ -130,14 +130,14 @@ input{
     display: flex;
     margin-top: 100px;
 }
-.six-section{
+.sixth-section{
     margin-top: 100px;
     text-align: center;
 }
-.six-section h1{
+.sixth-section h1{
     font-size: 50px;
 }
-.six-section p{
+.sixth-section p{
     font-size: 20px;
 }
 .some-picture{
@@ -150,4 +150,51 @@ input{
     height: 400px;
     width: 400px;
     margin-left: 50px;
+}
+.seventh-section{
+    text-align: center;
+}
+.seventh-section h1{
+    font-size: 50px;
+}
+.seventh-section p{
+    font-size: 20px;
+}
+form{
+   background-color: rgb(238, 223, 203);
+   padding: 70px;
+}
+form input{
+    background-color: rgb(221, 205, 205);
+    padding: 13px;
+    width: 300px;
+    text-align: left;
+    border: none;
+    border-radius: 10px;
+    
+
+}
+form span{
+    color: white;
+    background-color: orangered;
+    padding:13px 40px;
+    font-weight: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: -10px;  
+}
+footer{
+    background-color: black;
+    margin-top: 100px;
+    height: 150px;
+    text-align: center;
+    padding: 35px;
+}
+footer h1{
+    color: red;
+    font-family: inherit;
+}
+footer h4{
+    color: cadetblue;
+    padding: 30px;
 }
