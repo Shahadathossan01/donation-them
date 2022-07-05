@@ -130,3 +130,24 @@ input{
     display: flex;
     margin-top: 100px;
 }
+.six-section{
+    margin-top: 100px;
+    text-align: center;
+}
+.six-section h1{
+    font-size: 50px;
+}
+.six-section p{
+    font-size: 20px;
+}
+.some-picture{
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.some-picture img{
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+}
