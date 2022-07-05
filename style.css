@@ -27,7 +27,7 @@ h1{
     text-align: center;
     margin-bottom: 50px;
 }
-.inner-section a{
+.button{
     text-decoration: none;
     color: white;
     background-color: orangered;
@@ -35,6 +35,43 @@ h1{
     font-weight: 30px;
     font-size: 20px;
     border-radius: 10px;
-    
 }
-
+.second-section{
+    text-align: center;
+    padding: 100px;
+}
+.second-section h1{
+    font-size: 50px;
+}
+.second-section p{
+    font-size: 20px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(231, 226, 226);
+    margin-left: 20px;
+}
+.box h2{
+    padding: 15px;
+}
+.markable-amount{
+    background-color:rgb(238, 162, 162);
+    border: 2px solid red;
+}
+.donation-amount{
+    display: flex;
+    margin-left: 350px;
+}
+form{
+    margin-top: 50px;
+    font-size: 30px;
+}
+input{
+    border: none;
+    font-size: 20px;
+    text-align: center;
+}
+form a{
+    margin-top: 40px;
+}
