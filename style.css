@@ -72,4 +72,57 @@ input{
     font-size: 20px;
     text-align: center;
 }
-
+.third-section{
+    
+    padding: 10px;
+}
+.third-section h1{
+    font-size: 50px;
+    text-align: center;
+}
+.third-section p{
+    font-size: 20px;
+    margin-bottom: 50px;
+    
+}
+.describe-plan{
+    display: flex;
+    
+}
+.plan-section{
+    padding: 20px 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.bg_color1{
+    background-color:#c4e2e3;
+}
+.bg_color2{
+    background-color:rgb(225, 179, 225);
+}
+.bg_color3{
+    background-color: rgb(229, 244, 136);
+}
+.fourth-section{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.part-1{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.part-1 h1{
+    font-size: 50px;
+}
+.part-1 p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.part-2 img{
+    height: 500px;
+    width: 500px;
+    margin-left: 40px;
+}
