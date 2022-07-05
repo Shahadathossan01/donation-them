@@ -124,5 +124,9 @@ input{
 .part-2 img{
     height: 500px;
     width: 500px;
-    margin-left: 40px;
+    margin-left: 100px;
+}
+.fifth-section{
+    display: flex;
+    margin-top: 100px;
 }
