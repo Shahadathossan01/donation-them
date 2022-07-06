@@ -1,9 +1,7 @@
 body{
     font-family: 'Fira Sans', sans-serif;
 }
-h1{
-    font-family: 'Fira Sans', sans-serif;
-}
+
 .first-section{
     text-align: center;
     height: 800px;
@@ -82,8 +80,10 @@ input{
 }
 .third-section p{
     font-size: 20px;
-    margin-bottom: 50px;
-    
+    margin-bottom: 50px;  
+}
+.plan{
+    text-align: center;
 }
 .describe-plan{
     display: flex;
@@ -160,6 +160,9 @@ input{
 .seventh-section p{
     font-size: 20px;
 }
+.thanks{
+    color: orange;
+}
 form{
    background-color: rgb(238, 223, 203);
    padding: 70px;
@@ -192,9 +195,12 @@ footer{
 }
 footer h1{
     color: red;
-    font-family: inherit;
+    
 }
 footer h4{
     color: cadetblue;
     padding: 30px;
+}
+footer h1{
+    font-style: italic;
 }
